@@ -1,0 +1,14 @@
+/*
+首页的CSS
+创建日期2016年4月5日
+创建人洪vijay
+*/
+
+*{margin: 0 auto;}
+.Head{width: 100%; height: 90px; background-color: #0a0a0a;}
+	.TT{float: left; height: 86px;}
+	.logo{width: 400px;}
+	.logo img{height: 100%;}
+	.LocalWeather{width: 400px; height: 100%; background-image: url(../Images/backgroundweather.png);
+		background-repeat: no-repeat; background-position: 10px 20px;}
+	.Date{color: #FFF; float: left; margin-top: 45px; margin-left: 30px;}

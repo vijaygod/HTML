@@ -11,4 +11,19 @@
 	.logo img{height: 100%;}
 	.LocalWeather{width: 400px; height: 100%; background-image: url(../Images/backgroundweather.png);
 		background-repeat: no-repeat; background-position: 10px 20px;}
-	.Date{color: #FFF; float: left; margin-top: 45px; margin-left: 30px;}
+	.Date{color: #FFF; float: left; margin-top: 45px; margin-left: 30px; width: 60px;}
+	.localtionANDweather{width: 300px; height: 86px; float: left;}
+	.location {margin-top: 30px; margin-left: 5px; float: left; width: 80px;}
+	.location select{border: none; width: 70px; height: 20px; background-color:#0a0a0a; color: #8cafda; font-size: 16px;
+		outline-color: #0a0a0a;}
+	.weather{margin-top: 30px; margin-left: 5px; float: left; color: #FFF;}
+	.weathername{float: left; font-size: 14px; line-height: 20px;}
+	.Temp{float: left; font-size: 14px; margin-left: 20px; line-height: 20px;}
+	.LoginANDRegister{ width: 130px; height: 100%; float: right; margin-right: 150px; }
+	.F{float: left; color: #FFF; font-size: 18px;}
+	.logindiv{width: 50px; height: 25px; text-align: center; margin-top: 20px; margin-left: 5px;}
+	.Vline{width: 2px; height: 15px; margin-left: 10px; margin-right: 10px; background-color: #FFF; margin-top: 22px;}
+	.registerdiv{width: 50px; height: 25px; text-align: center; margin-top: 20px;}
+	.hr{width: 130px; height: 1px; background-color: #FFF; float: left;}
+	.shift{width: 100%; height: 30px; float: left;}
+	.shift a{ text-decoration:none; color: #FFF; text-align: center; line-height: 30px; font-size: 14px; margin-left: 7px;}
